@@ -9,6 +9,10 @@ This not made by me, Module created by [Yuuki](https://github.com/akbaryahya) i 
 # Download
 Download [YuukiPS 2.8](https://github.com/ElaXan/YuukiPS/releases/tag/2.8)
 
+### Error
+If you have error "Failed to extract il2cpp" or crash issue<br />
+Try using method Termux, Go to [AnimeGamePatch](https://github.com/ElaXan/AnimeGamePatch)
+
 # Play
 If want play Private Server rename data genshin in /Android/data <br />
 rename ```com.miHoYo.GenshinImpact``` to ```com.miHoYo.GenshinImpactzex``` <br />
