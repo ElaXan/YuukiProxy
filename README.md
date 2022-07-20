@@ -15,7 +15,8 @@ Try using method Termux,<br />
 Go to [AnimeGamePatch](https://github.com/ElaXan/AnimeGamePatch)
 
 # Play
-If want play Private Server rename data genshin in /Android/data <br />
-rename ```com.miHoYo.GenshinImpact``` to ```com.miHoYo.GenshinImpactzex``` <br />
-if want play official server <br />
-rename ```com.miHoYo.GenshinImpactzex``` to ```com.miHoYo.GenshinImpact```
+If want play Private Server rename data genshin in Android/data <br />
+rename<br />
+`com.miHoYo.GenshinImpact`<br />to<br />`com.miHoYo.GenshinImpactzex` <br />
+<br />if want play official server <br />
+rename<br />`com.miHoYo.GenshinImpactzex`<br />to<br />`com.miHoYo.GenshinImpact`
