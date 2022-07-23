@@ -1,4 +1,6 @@
 # YuukiPS
+EN | [ID](https://github.com/ElaXan/YuukiProxy/blob/main/README-id.md)
+
 Clone APK YuukiPS <br />
 No Termux and No Root <br />
 Clone by [ElaXan](https://discord.com/users/506212044152897546)
