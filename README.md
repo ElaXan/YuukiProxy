@@ -12,8 +12,10 @@ This not made by me, Module created by [Yuuki](https://github.com/akbaryahya) i 
 Download [YuukiPS 2.8](https://github.com/ElaXan/YuukiPS/releases/tag/2.8)
 
 ### Error
-If you have error "Failed to extract il2cpp" or crash issue<br />
-Try using method Termux,<br />
+* If not show menu for Playing PS. Then may have problem with your system, or maybe waiting Yuuki Fix it.
+
+* If you have error "Failed to extract il2cpp" or crash issue<br />
+Try using method Termux
 Go to [AnimeGamePatch](https://github.com/ElaXan/AnimeGamePatch)
 
 # Play
