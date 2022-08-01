@@ -9,12 +9,12 @@ Clone by [ElaXan](https://discord.com/users/506212044152897546)
 This not made by me, Module created by [Yuuki](https://github.com/akbaryahya) i just make to clone apk, for you dont know how to do it, Join [Discord](https://discord.gg/yuukips) if need help and more update, i cant help you if got error. Because this not made by me
 
 # Download
-Download [YuukiPS 2.8](https://github.com/ElaXan/YuukiPS/releases/tag/2.8)
+Download [YuukiPS V3](https://github.com/ElaXan/YuukiProxy/releases/tag/V3)
 
 ### Error
 * If not show menu for Playing PS. Then may have problem with your system, or maybe waiting Yuuki Fix it.
 
-* If you have error "Failed to extract il2cpp" or crash issue<br />
+* If you have error "Failed to extract il2cpp" or crash issue\
 Try using method Termux
 Go to [AnimeGamePatch](https://github.com/ElaXan/AnimeGamePatch)
 
