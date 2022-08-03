@@ -1,30 +1,29 @@
 # YuukiPS
 [EN](https://github.com/ElaXan/YuukiProxy) | ID
 
-Clone APK YuukiPS\
-Tanpa Termux dan tanpa Root\
+Clone APK YuukiPS <br />
+Tanpa Termux dan Tanpa Root <br />
 Clone oleh [ElaXan](https://discord.com/users/506212044152897546)
 
 # Disclaimer
-Ini bukan gw yang bikin, Module dibuat oleh [Yuuki](https://github.com/akbaryahya) gw cuman clone apk saja, untuk kalian yang gak tau caranya. Join [Discord](https://discord.gg/yuukips) jika butuh bantuan dan untuk update, gw ga bisa bantu lu jika error. Karena ini bukan gw yang bikin
+Ini bukan gw yang bikin, Module di buat oleh [Yuuki](https://github.com/akbaryahya) gw cuman clone apk saja, untuk kalian yang ga tau caranya. Dan juga gw udah nanya ke [Yuuki](https://github.com/akbaryahya) buat upload dan share di Github, Gabung [Discord](https://discord.gg/yuukips) jika butuh bantuan dan untuk Update, gw gak bisa bantu lu jika Error. Karna ini bukan gw yang Bikin
 
 # Download
-Download [YuukiPS 2.8](https://github.com/ElaXan/YuukiPS/releases/tag/2.8)
+Download [YuukiPS V3](https://github.com/ElaXan/YuukiProxy/releases/tag/V3)
 
 ### Error
-Jika lu error kayak "Failed to extract il2cpp" atau masalah crash\
-Bisa coba metode Termux\
-Ke  [AnimeGamePatch](https://github.com/ElaXan/AnimeGamePatch/blob/main/README-id.md)
+* Kalau ga muncul menu buat main Private Server. Mungkin ada masalah dengan System lu, atau tunggu Yuuki benerin ini.
+
+* Kalau lu ada masalah "Failed to Extract il2cpp" kemungkinan ada masalah di Data Genshin Impact lu. Lu bisa coba download ulang datanya. Kalau masih kayak gitu, kemungkinan besar hp lu ga support
+
+* Untuk metode Termux\
+Ke [AnimeGamePatch](https://github.com/ElaXan/AnimeGamePatch)
 
 # Play
-Jika lu mau main Private Server ubah data genshin di Android/data\
-Ganti nama\
-`com.miHoYo.GenshinImpact`\
-Ke\
-`com.miHoYo.GenshinImpactzex`
+Gw saranin punya 1 data saja, bukan bikin folder baru buat main Private Server
 
-Kalau mau main official server <br />
-Ganti nama\
-`com.miHoYo.GenshinImpactzex`\
-Ke\
-`com.miHoYo.GenshinImpact`
+Jadi rename saja datanya di Android/data folder <br />
+rename<br />
+`com.miHoYo.GenshinImpact`<br />ke<br />`com.miHoYo.GenshinImpactzex` <br />
+<br />kalau mau main Official Server <br />
+rename<br />`com.miHoYo.GenshinImpactzex`<br />ke<br />`com.miHoYo.GenshinImpact`
