@@ -6,7 +6,7 @@ No Termux and No Root <br />
 Clone by [ElaXan](https://discord.com/users/506212044152897546)
 
 # Disclaimer
-This not made by me, Module created by [Yuuki](https://github.com/akbaryahya) i just make to clone apk, for you dont know how to do it, Join [Discord](https://discord.gg/yuukips) if need help and more update, i cant help you if got error. Because this not made by me
+This not made by me, Module created by [Yuuki](https://github.com/akbaryahya) i just make to clone apk, for you dont know how to do it. and also i already ask [Yuuki](https://github.com/akbaryahya) for i share this on Github, Join [Discord](https://discord.gg/yuukips) if need help and more update, i cant help you if got error. Because this not made by me
 
 # Download
 Download [YuukiPS V3](https://github.com/ElaXan/YuukiProxy/releases/tag/V3)
@@ -14,12 +14,15 @@ Download [YuukiPS V3](https://github.com/ElaXan/YuukiProxy/releases/tag/V3)
 ### Error
 * If not show menu for Playing PS. Then may have problem with your system, or maybe waiting Yuuki Fix it.
 
-* If you have error "Failed to extract il2cpp" or crash issue\
-Try using method Termux
+* If you have problem like "Failed to Extract il2cpp" maybe have problem with your Data Genshin Impact. You can try re download for data, if still like that. So high chance your Device is not support
+
+* For Termux method\
 Go to [AnimeGamePatch](https://github.com/ElaXan/AnimeGamePatch)
 
 # Play
-If want play Private Server rename data genshin in Android/data <br />
+I suggest having only 1 data, not creating a new data folder to play Private Server
+
+So just rename your data in Android/data folder <br />
 rename<br />
 `com.miHoYo.GenshinImpact`<br />to<br />`com.miHoYo.GenshinImpactzex` <br />
 <br />if want play official server <br />
