@@ -9,7 +9,7 @@ Clone by [ElaXan](https://discord.com/users/506212044152897546)
 This not made by me, Module created by [Yuuki](https://github.com/akbaryahya) i just make to clone apk, for you dont know how to do it. and also i already ask [Yuuki](https://github.com/akbaryahya) for i share this on Github, Join [Discord](https://discord.gg/yuukips) if need help and more update, i cant help you if got error. Because this not made by me
 
 # Download
-Download [YuukiPS V3](https://github.com/ElaXan/YuukiProxy/releases/tag/V3)
+Download [YuukiPS 3.0](https://github.com/ElaXan/YuukiProxy/releases/tag/3.0)
 
 ### Error
 * If not show menu for Playing PS. Then may have problem with your system, or maybe waiting Yuuki Fix it.
