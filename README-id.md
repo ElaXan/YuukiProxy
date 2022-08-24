@@ -9,7 +9,7 @@ Clone oleh [ElaXan](https://discord.com/users/506212044152897546)
 Ini bukan gw yang bikin, Module di buat oleh [Yuuki](https://github.com/akbaryahya) gw cuman clone apk saja, untuk kalian yang ga tau caranya. Dan juga gw udah nanya ke [Yuuki](https://github.com/akbaryahya) buat upload dan share di Github, Gabung [Discord](https://discord.gg/yuukips) jika butuh bantuan dan untuk Update, gw gak bisa bantu lu jika Error. Karna ini bukan gw yang Bikin
 
 # Download
-Download [YuukiPS V3](https://github.com/ElaXan/YuukiProxy/releases/tag/V3)
+Download [YuukiPS 3.0](https://github.com/ElaXan/YuukiProxy/releases/tag/3.0)
 
 ### Error
 * Kalau ga muncul menu buat main Private Server. Mungkin ada masalah dengan System lu, atau tunggu Yuuki benerin ini.
