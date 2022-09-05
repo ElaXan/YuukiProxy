@@ -13,7 +13,7 @@ This not made by me, Module created by [Yuuki](https://github.com/akbaryahya) i 
 Download [YuukiPS 3.0](https://github.com/ElaXan/YuukiProxy/releases/tag/3.0)
 
 ### Error
-* If not show menu for Playing PS. Then may have problem with your system, or maybe waiting Yuuki Fix it.
+* If not show menu for Playing PS. Then may have problem with your system, or maybe waiting Yuuki Fix it.<br />[SOON FIXED AND UPLOAD IT TO RELEASE WHEN IM ALREADY PATCH IT]
 
 * If you have problem like "Failed to Extract il2cpp" maybe have problem with your Data Genshin Impact. You can try re download for data, if still like that. So high chance your Device is not support
 
