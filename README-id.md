@@ -1,4 +1,5 @@
 # YuukiPS
+<img src="clone.jpg" width="350"/><br />
 [EN](https://github.com/ElaXan/YuukiProxy) | ID
 
 Clone APK YuukiPS <br />
@@ -12,7 +13,7 @@ Ini bukan gw yang bikin, Module di buat oleh [Yuuki](https://github.com/akbaryah
 Download [YuukiPS 3.0](https://github.com/ElaXan/YuukiProxy/releases/tag/3.0)
 
 ### Error
-* Kalau ga muncul menu buat main Private Server. Mungkin ada masalah dengan System lu, atau tunggu Yuuki benerin ini.
+* Kalau ga muncul menu buat main Private Server. Coba patch baru di [release](https://github.com/ElaXan/YuukiProxy/releases)
 
 * Kalau lu ada masalah "Failed to Extract il2cpp" kemungkinan ada masalah di Data Genshin Impact lu. Lu bisa coba download ulang datanya. Kalau masih kayak gitu, kemungkinan besar hp lu ga support
 
@@ -24,6 +25,5 @@ Gw saranin punya 1 data saja, bukan bikin folder baru buat main Private Server
 
 Jadi rename saja datanya di Android/data folder <br />
 rename<br />
-`com.miHoYo.GenshinImpact`<br />ke<br />`com.miHoYo.GenshinImpactzex` <br />
-<br />kalau mau main Official Server <br />
-rename<br />`com.miHoYo.GenshinImpactzex`<br />ke<br />`com.miHoYo.GenshinImpact`
+`com.miHoYo.GenshinImpact`<br />ke<br />`com.miHoYo.GenshinImpactzex` <br />Atau<br />`com.miHoYo.GenshinImpactzexo`<br /><br />kalau mau main Official Server <br />
+rename<br />`com.miHoYo.GenshinImpactzex`<br />Atau<br />`com.miHoYo.GenshinImpactzexo`<br />ke<br />`com.miHoYo.GenshinImpact`
