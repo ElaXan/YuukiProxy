@@ -13,7 +13,7 @@ This not made by me, Module created by [Yuuki](https://github.com/akbaryahya) i 
 Download [YuukiPS 3.0](https://github.com/ElaXan/YuukiProxy/releases/tag/3.0)
 
 ### Error
-* If not show menu for Playing PS. Then may have problem with your system, or maybe waiting Yuuki Fix it.<br />[SOON FIXED AND UPLOAD IT TO RELEASE WHEN IM ALREADY PATCH IT]
+* If not show menu for Playing PS. Check for new Patch in [release](https://github.com/ElaXan/YuukiProxy/releases)
 
 * If you have problem like "Failed to Extract il2cpp" maybe have problem with your Data Genshin Impact. You can try re download for data, if still like that. So high chance your Device is not support
 
@@ -25,6 +25,6 @@ I suggest having only 1 data, not creating a new data folder to play Private Ser
 
 So just rename your data in Android/data folder <br />
 rename<br />
-`com.miHoYo.GenshinImpact`<br />to<br />`com.miHoYo.GenshinImpactzex` <br />
+`com.miHoYo.GenshinImpact`<br />to<br />`com.miHoYo.GenshinImpactzex`<br />or<br />`com.miHoYo.GenshinImpactzexo` <br />
 <br />if want play official server <br />
-rename<br />`com.miHoYo.GenshinImpactzex`<br />to<br />`com.miHoYo.GenshinImpact`
+rename<br />`com.miHoYo.GenshinImpactzex`<br />or<br />`com.miHoYo.GenshinImpactzexo`<br />to<br />`com.miHoYo.GenshinImpact`
