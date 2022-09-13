@@ -15,7 +15,7 @@ Download [YuukiPS 3.0](https://github.com/ElaXan/YuukiProxy/releases/tag/3.0)
 ### Error
 * Kalau ga muncul menu buat main Private Server. Coba patch baru di [release](https://github.com/ElaXan/YuukiProxy/releases)
 
-* Kalau lu ada masalah "Failed to Extract il2cpp" kemungkinan ada masalah di Data Genshin Impact lu. Lu bisa coba download ulang datanya. Kalau masih kayak gitu, kemungkinan besar hp lu ga support
+* Kalau lu ada masalah "Failed to Extract il2cpp". bisa kirim lognya supaya saya bisa liat errornya pake "logcat"
 
 * Untuk metode Termux\
 Ke [AnimeGamePatch](https://github.com/ElaXan/AnimeGamePatch)
