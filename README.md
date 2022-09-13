@@ -15,7 +15,7 @@ Download [YuukiPS 3.0](https://github.com/ElaXan/YuukiProxy/releases/tag/3.0)
 ### Error
 * If not show menu for Playing PS. Check for new Patch in [release](https://github.com/ElaXan/YuukiProxy/releases)
 
-* If you have problem like "Failed to Extract il2cpp" maybe have problem with your Data Genshin Impact. You can try re download for data, if still like that. So high chance your Device is not support
+* If you have problem like "Failed to Extract il2cpp". Please send log for i can see where the Error using "logcat"
 
 * For Termux method\
 Go to [AnimeGamePatch](https://github.com/ElaXan/AnimeGamePatch)
