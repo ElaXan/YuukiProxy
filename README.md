@@ -6,7 +6,8 @@ Clone APK YuukiPS <br />
 No Termux and No Root <br />
 Clone by [ElaXan](https://discord.com/users/506212044152897546)
 
-# 3.1 Still not available for Android, so may will be take long time or its already dead for Android User
+# 3.1 Android
+If you still want play 3.1 for Android go to [here](https://elaxan.my.id/NotMain/)
 
 # Disclaimer
 This not made by me, Module created by [Yuuki](https://github.com/akbaryahya) i just make to clone apk, for you dont know how to do it. and also i already ask [Yuuki](https://github.com/akbaryahya) for i share this on Github, Join [Discord](https://discord.gg/yuukips) if need help and more update, i cant help you if got error. Because this not made by me
